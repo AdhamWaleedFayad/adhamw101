@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adhamw101
+- 👋 Hi, I’m Adham
 - 👀 I’m interested in Robotics and AI
 - 🌱 I’m currently learning Machine Learning
 
