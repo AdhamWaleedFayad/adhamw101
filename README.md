@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adham
-- 👀 I’m interested in Robotics and AI
+- 👀 I’m interested in Robotics, Autonomous Driving and AI
 - 🌱 I’m currently learning Machine Learning
 
 
